@@ -1,0 +1,89 @@
+show dbs
+db
+use fruits
+db
+show dbs
+db.apples.insert({color : "red"})
+show dbs
+show collections
+db
+db fruits
+show dbs
+db fruits
+use fruits
+db.find()
+db.fruits.find()
+db.apple.find()
+db.apples.find()
+show dbs
+use IITMandi_Project
+4
+show collections
+db.sensor.find()
+db.sensors.find()
+show bds
+show dbs
+use IITMandi_Project
+show collections
+db.sensors.find()
+show dbs
+use IITMandi_Project
+show collecions
+show collections
+show dbs
+use IITMandi_Project
+show collections
+db.sensors.deleteOne({timestamp:"2023-07-05T06:29:21.304Z"})
+show dbs
+use IITMandi_Project
+show collections
+db.sensordatas.deleteMany({})
+use IITMandi_Project
+db.sensordatas.deleteMany({})
+show dbs
+use IITMandi_Project
+show collections
+use usermodels
+db.deleteOne({id:"64b028f0bc8201680884c19b"})
+db.usermodels.deleteOne({email:"amritanshu1002@gmail.com"})
+use IITMandi_Project
+db.usermodels.find()
+db.usermodels.deleteMany({email:"amritanshu1002@gmail.com"})
+db.usermodel.find()
+db.usersmodel.find()
+db.usermodels.find()
+use IITMandi_Project
+db.stats
+db.stats()
+use IITMandi_Project
+db.usermodels.deleteOne({email : "amritanshu1002@gmail.com"})
+db.usermodels.find()
+show dbs
+use IITMandi_Project
+show collections
+db.sensordatas.find()
+it
+db.sensordatas.db()
+db.stats()
+use IITMandi_Project
+db.sensordatas.deleteMany()
+show collections
+db.sensordatas.deleteMany()
+db.sensordatas.deleteMany({})
+use IITMandi_Project
+db.sensordatas.deleteMany({})
+use IITMandi_Project
+show collections
+db.actuatormodels.find()
+db.actuatormodels.delete({})
+db.acutatormodels.deleteMany({})
+use IIMandi_Project
+db.senordatas.deleteMany({})
+db.sensordatas.deleteMany({})
+show collections
+db.stat()
+use IITMandi_Project
+show collections
+db.sensordatas.deleteMany({})
+show collections
+show dbs
